@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:CreateClass/CreateClass.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:ClassObject/ClassObject.xcodeproj">
    </FileRef>
    <FileRef
